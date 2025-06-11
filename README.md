@@ -80,3 +80,5 @@ Always verify onion links. Mirror sites offer redundancy.
 Tor market links offer a path to anonymous transactions. By employing these guidelines, you can securely explore the darknet. Always use caution.
 
 Please contribute and add stars to this repo.
+
+Update:  06/11/2025 11-07 Fixed broken url, now working
