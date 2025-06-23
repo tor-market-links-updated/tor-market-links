@@ -89,4 +89,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Fantastic! The link is now responsive and working.
+
+
+Update: link updated and working
