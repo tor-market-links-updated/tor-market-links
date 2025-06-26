@@ -93,4 +93,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  06/24/2025 link is up and running
+
+
+Update:  26.06.2025 link is reachable
