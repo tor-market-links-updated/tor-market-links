@@ -99,4 +99,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  07.07.2025 11:54
+
+
+Update:  14.07.2025 Login URLs
